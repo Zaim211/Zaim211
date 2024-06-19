@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Youssef TITAZAIM and I'm a Software Engineer from Marrakech.</p>
+<p align="left">My name is Youssef TITAZAIM and I'm a Software Engineer from Morocco.</p>
 
 ###
 
@@ -11,17 +11,6 @@
 ###
 
 <p align="left"><br>✨ I am a dedicated and passionate with a strong background in full-stack development. My expertise spans across both front-end and back-end technologies, enabling me to build comprehensive and robust web applications. I thrive in dynamic and collaborative environments, always eager to take on new challenges and expand my skill set.<br></p>
-
-###
-
-
-<h2 align="left">Badges and Statistics</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
 
 ###
 
