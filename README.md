@@ -10,7 +10,14 @@
 
 ###
 
-<p align="left"><br>✨ I am a dedicated and passionate with a strong background in full-stack development. My expertise spans across both front-end and back-end technologies, enabling me to build comprehensive and robust web applications. I thrive in dynamic and collaborative environments, always eager to take on new challenges and expand my skill set.<br></p>
+<p align="left"><br>✨ I am a dedicated and passionate full-stack developer with a strong background in full-stack development. My expertise spans across both front-end and back-end technologies, enabling me to build comprehensive and robust web applications. I thrive in dynamic and collaborative environments, always eager to take on new challenges and expand my skill set. My tech stack includes MERN Stack, Next.js, React Native, ViteJS, and Web3.
+
+
+
+
+
+
+<br></p>
 
 ###
 
@@ -62,7 +69,7 @@
 
 ###
 
-- [Portfolio](https://titazaim-youssef-portfolio.vercel.app/)
+- [Portfolio](https://portfolio-titazaim.vercel.app/)
 - [LinkedIn](https://www.linkedin.com/in/youssef-titazaim-%F0%9F%92%BB-0a6703180/)
 - [Twitter](https://x.com/titaytech)
 - [Email](mailto:yousseftitazaim@gmail.com)
